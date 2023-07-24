@@ -1,0 +1,13 @@
+La base utilizada es:
+
+v1={0.371785 + 0.428267 I, -0.173867 + 0.428267 I, -0.23082 + 0.428267 I, 0.211229 + 0.428267 I}
+
+v2={-0.126862 + 0.248387 I, 0.39518 + 0.188796 I, 0.507547 + 0.182576 I, -0.621424 + 0.230853 I}
+
+* Valores de theta y phi de pureza máxima:
+  maxthetaphi={{1.0537852623291943`, 0.15352693063088266`}, {2.181402563690937`, 3.287720290837315`}}
+
+* Pureza máxima: 
+  Puritymax=1
+
+* El mapa de contorno con los puntos de pureza máxima (puntos blancos), se encuentra en la imagen B22Q.png
